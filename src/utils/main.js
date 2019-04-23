@@ -52,8 +52,8 @@ export default class Main extends Component {
                             end: '$5000',
                         }}
                         defaultSelected={{
-                            start: 10,
-                            end: 50,
+                            start: 250,
+                            end: 5000,
                         }}
                         stepValue={10}
                         interval={50}
