@@ -20,7 +20,9 @@
     "react-native": "^0.59.5",
     "react-native-video": "^4.4.1",
     "react-router-dom": "^5.0.0",
-    "react-video-cover": "^1.2.2"
+    "react-video-cover": "^1.2.2",
+    "react-firebaseui": "^1.2.3",
+    "react-scripts": "1.1.4"
   },
   "scripts": {
     "start": "react-scripts start",

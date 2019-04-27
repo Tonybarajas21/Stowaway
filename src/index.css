@@ -4,7 +4,10 @@ body {
   font-family: sans-serif;
 }
 
-
+.firebaseui-page-provider-sign-in {
+  background: inherit;
+  z-index: 1;
+}
   
 .fullscreen-bg {
   position: fixed;
