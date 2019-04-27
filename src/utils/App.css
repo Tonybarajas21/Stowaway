@@ -43,7 +43,7 @@
   }
 }
 .container .right-col {
-  width: calc(100% - 320px);
+  width: calc(100%);
   position: relative;
   left: 320px;
   padding: 25px 30px;
